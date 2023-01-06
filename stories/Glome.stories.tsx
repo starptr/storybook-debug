@@ -2,7 +2,7 @@ import { ComponentMeta, ComponentStory } from "@storybook/react";
 import Home from "../pages";
 
 const storyConfig = {
-  title: "Home",
+  title: "Example/Home",
 
   component: Home,
 } as ComponentMeta<typeof Home>;
